@@ -83,6 +83,9 @@ const Footer = () => {
           <p className="text-xs text-primary-foreground/40 tracking-wider">
             © 2026 Prestige Realty. All rights reserved. Luxury Real Estate Redefined.
           </p>
+          <p className="text-xs text-primary-foreground/40 tracking-wider mt-2">
+            Made by <a href="https://digitalcore.co.in/" target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">Digital Core Services</a>
+          </p>
         </div>
       </div>
     </footer>
